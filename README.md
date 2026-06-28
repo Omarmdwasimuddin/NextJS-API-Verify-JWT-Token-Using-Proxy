@@ -1,0 +1,1 @@
+# NextJS-API-Verify-JWT-Token-Inside-Proxy
